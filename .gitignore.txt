@@ -1,1 +1,2 @@
-text.doc
+#Ignore all .doc files try 4
+*.doc
